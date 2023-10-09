@@ -1,19 +1,8 @@
-#Task1
+Here In iNeuBytes, We got 3 projects,
 
-# Diabetes_Analysis
-Problem Statement : To build a machine learning model to predict whether an patient have Diabetes or not.
+ 1: Diabetes Analysis - classification problem
+ 2: Air Pollution - Regression Problem
+ 3: Customer Segmentation. - Regression problem, K-mean Clustering.(major project)
 
-**About The Project**:
-
-
-This repository contains a machine learning model for predicting diabetes in individuals. The model is trained on a dataset of health-related features and target labels indicating the presence or absence of diabetes.
-
-**# About The Dataset**
-
-The dataset used for this project contains various health-related features such as age, BMI, blood pressure, and glucose levels, along with a binary target variable indicating whether an individual has diabetes or not. The data is divided into training and testing sets to evaluate the model's performance.
-
-Dataset Source: [https://www.kaggle.com/datasets/mathchi/diabetes-data-set]
-Dataset Files: diabetes.csv 
-
-
-#Task2
+ 
+For classification problem, build a model and predicted and evaluated by metrics classification report and confusion matrix. For regression preprocessing and EDA part is more and build a model and evaluated by MAE, MSE, RMSE. In addition to that for customer segmentation, K-mean clustering --> Elbow method.
