@@ -1,7 +1,9 @@
 Here In iNeuBytes, We got 3 projects,
 
  1: Diabetes Analysis - classification problem
+ 
  2: Air Pollution - Regression Problem
+
  3: Customer Segmentation. - Regression problem, K-mean Clustering.(major project)
 
  
